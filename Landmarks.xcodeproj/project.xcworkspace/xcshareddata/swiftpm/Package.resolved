@@ -1,0 +1,25 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Segment",
+        "repositoryURL": "https://github.com/segmentio/analytics-ios",
+        "state": {
+          "branch": "master",
+          "revision": "b9de0e7f49bffaf00259db491a439c9594e1ef3e",
+          "version": null
+        }
+      },
+      {
+        "package": "IterableSDK",
+        "repositoryURL": "https://github.com/iterable/swift-sdk",
+        "state": {
+          "branch": null,
+          "revision": "9e80d5d8740d2eb153ceed18b474c413f05af218",
+          "version": "6.3.4"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
